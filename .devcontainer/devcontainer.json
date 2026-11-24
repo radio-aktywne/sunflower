@@ -1,0 +1,11 @@
+{
+  "image": "ghcr.io/radio-aktywne/devcontainers/app-next:latest",
+  "runArgs": [
+    "--uts=host",
+    "--ipc=host",
+    "--network=host",
+    "--userns=host",
+    "--cgroupns=host",
+    "--privileged"
+  ]
+}
