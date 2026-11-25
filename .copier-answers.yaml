@@ -1,0 +1,18 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.18.0
+_src_path: gh:radio-aktywne/template-app-next
+access: true
+accountname: radio-aktywne
+appname: sunflower
+description: Launcher app 🧭
+docs: true
+docsurl: https://radio-aktywne.github.io/sunflower
+envprefix: SUNFLOWER
+identity: true
+imagename: apps/sunflower
+keyprefix: sunflower
+port: 30000
+registry: true
+releases: true
+reponame: sunflower
+repourl: https://github.com/radio-aktywne/sunflower
